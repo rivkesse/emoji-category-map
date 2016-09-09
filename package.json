@@ -1,7 +1,7 @@
 {
-  "name": "emoji-unicode-map",
+  "name": "@rivkesse/emoji-category-map",
   "version": "1.0.0",
-  "description": "Unicode to name emoji mapping.",
+  "description": "Unicode to category emoji mapping. Based on teh work of Ionică Bizău. <bizauionica@gmail.com> (http://ionicabizau.net)",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
@@ -19,7 +19,8 @@
     "name",
     "unicode",
     "map",
-    "conversion"
+    "conversion",
+    "category"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "contributors": [
